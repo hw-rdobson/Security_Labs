@@ -5,6 +5,8 @@
 - HDP 3.x / Ambari 2.7.1 cluster<br>
 - Access to an IPA server that has been setup as descibed in [Hortonworks documentation](https://docs.hortonworks.com/HDPDocuments/HDP3/HDP-3.0.1/authentication-with-kerberos/content/kerberos_optional_use_an_existing_ipa.html). See sample [script](https://github.com/HortonworksUniversity/Security_Labs/blob/master/extras/ipa.md) to set up
 
+** NOTE: Make Sure IPA Server is installed SEPERATE FROM CLUSTER!!! **
+
 **Lab Topics**<br>
 
 1. [Register cluster nodes as IPA Clients](#section-1)
